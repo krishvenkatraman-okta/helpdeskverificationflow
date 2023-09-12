@@ -27,8 +27,8 @@ oauth_config:
 settings:
   interactivity:
     is_enabled: true
-    request_url: https://iam.workflows.oktapreview.com/api/flo/5fca80016a867a4b4e7d2a1e030c161c/invoke?clientToken=09a244b77f5c32d818a256acac1b16cb6e7f273d98dc8ca8103d3fcffdb0c0d3
-    message_menu_options_url: https://iam.workflows.oktapreview.com/api/flo/3f4d25f87b7b8f84b1758422a6c713be/invoke?clientToken=998015d1065d6e47ea25ba1fe104e3ef07d5b3dc3d6714b8d2e0525546c6371d
+    request_url: https://<oktadomain>.workflows.oktapreview.com/api/flo/5fca80016a867a4b4e7d2a1e030c161c/invoke?clientToken=09a244b77f5c32d818a256ac1b16cb6e7f273d98dc8ca8103d3fcffdb0c0d3
+    message_menu_options_url: https://<oktadomain>.workflows.oktapreview.com/api/flo/3f4d25f87b7b8f84b1758422a6c713be/invoke?clientToken=99801065d6e47ea25ba1fe104e3ef07d5b3dc3d6714b8d2e0525546c6371d
   org_deploy_enabled: false
   socket_mode_enabled: false
   token_rotation_enabled: false
